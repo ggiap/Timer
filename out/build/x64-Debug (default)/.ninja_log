@@ -1,0 +1,9 @@
+# ninja log v5
+1	380	632009469	Timer/CMakeFiles/Timer.dir/main.cpp.obj	a2c11c252e905bbe
+381	1197	632009469	Timer/Timer.exe	65493b95d85f604a
+1	394	632009501	Timer/CMakeFiles/Timer.dir/main.cpp.obj	a2c11c252e905bbe
+394	1053	632009502	Timer/Timer.exe	65493b95d85f604a
+0	394	632009870	Timer/CMakeFiles/Timer.dir/main.cpp.obj	a2c11c252e905bbe
+394	1128	632009871	Timer/Timer.exe	65493b95d85f604a
+0	485	632009890	Timer/CMakeFiles/Timer.dir/main.cpp.obj	a2c11c252e905bbe
+485	1175	632009891	Timer/Timer.exe	65493b95d85f604a
